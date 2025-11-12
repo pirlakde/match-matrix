@@ -1,0 +1,5 @@
+/.project
+**/.vs
+**/.idea
+**/bin
+**/obj
